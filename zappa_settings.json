@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "hello.app",
+        "profile_name": null,
+        "project_name": "five-ways-to-de",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-qvsbpdl8h"
+    }
+}
